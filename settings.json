@@ -1,0 +1,41 @@
+{
+    "editor.fontSize": 13,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontSize": 15,
+    "editor.fontWeight": "400",
+    "editor.rulers": [80],
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.editor.highlightModifiedTabs": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.enablePreview": false,
+
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10,
+
+    "python.linting.pylintUseMinimalCheckers": false,
+    // "python.formatting.yapfPath": "/usr/bin/yapf",
+    // "python.formatting.yapfArgs": [
+    //    "--style",
+    //       "{based_on_style: google, allow_split_before_dict_value: false, split_before_logical_operator: true,}",
+    //],
+    "python.formatting.provider": "yapf",
+    "autoDocstring.docstringFormat": "google",
+    // "python.pythonPath": "/home/etochie/Рабочий стол/venv/bin/python",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.scopes": [
+        "document"
+    ],
+
+    // "explorer.sortOrder": "type",
+    //"files.trimFinalNewlines": true,
+    //"window.zoomLevel": 0,
+    //"terminal.integrated.scrollback": 2000,
+    //"files.trimTrailingWhitespace": true,
+    //"files.insertFinalNewline": true,
+    //"terminal.integrated.rendererType": "dom",
+    //"editor.quickSuggestionsDelay": 3,
+
+}
